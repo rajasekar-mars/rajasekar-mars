@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @rajasekar-mars
 - 👀 I’m interested in Programming
-- 🌱 I’m currently learning  Python Advanced
-- 💞️ I’m looking to collaborate on Data Science Projects
+- 🌱 I’m currently learning  Java Advanced
+- 💞️ I’m looking to collaborate on Java Projects
 - 📫 How to reach me - rajasekar.mars@gmail.com
 
 <!---
